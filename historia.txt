@@ -1,0 +1,4 @@
+hola este es mi historia de 
+aprendiendo git y github
+
+poniendo a prueba los comandos.
